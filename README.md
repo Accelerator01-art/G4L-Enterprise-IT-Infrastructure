@@ -1,5 +1,5 @@
 Game4Learning (G4L) Enterprise IT Infrastructure & Intranet
-[View the Live Intranet Portal Here](Insert your GitHub Pages link here)
+[View the Live Intranet Portal Here] (https://accelerator01-art.github.io/G4L-Enterprise-IT-Infrastructure/)
 
 Overview
 This repository contains the comprehensive Work Integrated Learning (WIL) project for Game4Learning (G4L), detailing the end-to-end design, budgeting, and deployment strategy for a multi-site enterprise IT infrastructure. The project includes a fully functional static intranet portal built to host the organization's Standard Operating Procedures (SOPs), Network Topologies, and Disaster Recovery Plans.
